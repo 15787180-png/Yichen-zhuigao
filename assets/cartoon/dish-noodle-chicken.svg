@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="20" fill="#F4FBFA"/>
+  <!-- 热气 -->
+  <path d="M44 38 Q40 46 44 52 M64 34 Q60 42 64 48 M84 38 Q80 46 84 52" stroke="#B9C4D0" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- 面条 -->
+  <path d="M40 72 Q52 64 64 72 T88 72" stroke="#F2C14E" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <path d="M40 80 Q52 72 64 80 T88 80" stroke="#F2C14E" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <!-- 碗 -->
+  <path d="M30 80 H98 Q90 106 64 106 Q38 106 30 80 Z" fill="#FFFFFF" stroke="#42526B" stroke-width="3" stroke-linejoin="round"/>
+  <!-- 鸡腿 -->
+  <ellipse cx="100" cy="76" rx="11" ry="9" fill="#E8A56D" stroke="#42526B" stroke-width="3" transform="rotate(-30 100 76)"/>
+  <circle cx="110" cy="66" r="4" fill="#F7F3EA" stroke="#42526B" stroke-width="2.5"/>
+  <path d="M98 76 L107 67" stroke="#42526B" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

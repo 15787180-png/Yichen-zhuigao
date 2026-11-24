@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="20" fill="#F4FBFA"/>
+  <!-- 跳绳 -->
+  <path d="M24 92 Q64 12 104 92" fill="none" stroke="#42526B" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- 腿 -->
+  <path d="M60 96 L50 112" stroke="#42526B" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M68 96 L78 112" stroke="#42526B" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <ellipse cx="48" cy="114" rx="6" ry="3" fill="#FF9F43"/>
+  <ellipse cx="80" cy="114" rx="6" ry="3" fill="#FF9F43"/>
+  <!-- 短裤 -->
+  <path d="M52 86 H76 L80 98 H48 Z" fill="#FF9F43" stroke="#42526B" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- 上衣 -->
+  <path d="M50 64 Q64 58 78 64 L76 88 H52 Z" fill="#4ECDC4" stroke="#42526B" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- 手臂 -->
+  <path d="M52 68 L36 84 L24 92" fill="none" stroke="#42526B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M76 68 L92 84 L104 92" fill="none" stroke="#42526B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="24" cy="92" r="3.5" fill="#FFDDBB" stroke="#42526B" stroke-width="2"/>
+  <circle cx="104" cy="92" r="3.5" fill="#FFDDBB" stroke="#42526B" stroke-width="2"/>
+  <!-- 头 -->
+  <circle cx="64" cy="46" r="14" fill="#FFDDBB" stroke="#42526B" stroke-width="2.5"/>
+  <path d="M50 44 Q52 30 64 30 Q76 30 78 44 Q72 38 64 38 Q56 38 50 44Z" fill="#3E2F28"/>
+  <circle cx="59" cy="47" r="1.8" fill="#42526B"/>
+  <circle cx="69" cy="47" r="1.8" fill="#42526B"/>
+  <path d="M60 52 Q64 55 68 52" stroke="#42526B" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+</svg>

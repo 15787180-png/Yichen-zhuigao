@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="20" fill="#F4FBFA"/>
+  <!-- 西兰花 -->
+  <circle cx="52" cy="60" r="10" fill="#7BC47F" stroke="#42526B" stroke-width="2.5"/>
+  <circle cx="66" cy="54" r="11" fill="#7BC47F" stroke="#42526B" stroke-width="2.5"/>
+  <circle cx="79" cy="61" r="9" fill="#7BC47F" stroke="#42526B" stroke-width="2.5"/>
+  <path d="M66 64 L66 74" stroke="#4A9D53" stroke-width="4" stroke-linecap="round"/>
+  <!-- 米饭 -->
+  <ellipse cx="64" cy="76" rx="36" ry="10" fill="#FFFDF7" stroke="#42526B" stroke-width="3"/>
+  <!-- 碗 -->
+  <path d="M28 76 H100 Q92 106 64 106 Q36 106 28 76 Z" fill="#FFFFFF" stroke="#42526B" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M46 88 H82" stroke="#9FD8E8" stroke-width="3" stroke-linecap="round"/>
+</svg>

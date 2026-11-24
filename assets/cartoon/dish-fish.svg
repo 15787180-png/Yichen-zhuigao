@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="20" fill="#F4FBFA"/>
+  <!-- 气泡 -->
+  <circle cx="26" cy="38" r="3.5" fill="#BFE9F2"/>
+  <circle cx="18" cy="50" r="2.5" fill="#BFE9F2"/>
+  <!-- 鱼尾 -->
+  <path d="M86 70 L106 52 L100 70 L106 88 Z" fill="#5FBFD2" stroke="#42526B" stroke-width="3" stroke-linejoin="round"/>
+  <!-- 鱼身 -->
+  <path d="M30 70 Q52 44 86 70 Q52 96 30 70 Z" fill="#8FDCE6" stroke="#42526B" stroke-width="3" stroke-linejoin="round"/>
+  <!-- 鱼鳍 -->
+  <path d="M56 74 Q62 60 70 70 Q64 76 56 74Z" fill="#5FBFD2" stroke="#42526B" stroke-width="2"/>
+  <!-- 眼睛 -->
+  <circle cx="44" cy="66" r="4" fill="#FFFFFF" stroke="#42526B" stroke-width="2"/>
+  <circle cx="45" cy="66" r="1.8" fill="#42526B"/>
+  <!-- 鱼鳞 -->
+  <path d="M62 64 Q66 70 62 76 M70 62 Q75 70 70 78" stroke="#42526B" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- 嘴 -->
+  <path d="M30 70 Q34 73 38 71" stroke="#42526B" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg>

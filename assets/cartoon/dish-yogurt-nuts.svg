@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="20" fill="#F4FBFA"/>
+  <!-- 坚果 -->
+  <ellipse cx="46" cy="50" rx="6" ry="9" fill="#C98A5A" stroke="#42526B" stroke-width="2.5" transform="rotate(-25 46 50)"/>
+  <ellipse cx="64" cy="46" rx="6" ry="9" fill="#C98A5A" stroke="#42526B" stroke-width="2.5"/>
+  <ellipse cx="82" cy="50" rx="6" ry="9" fill="#C98A5A" stroke="#42526B" stroke-width="2.5" transform="rotate(25 82 50)"/>
+  <!-- 酸奶杯 -->
+  <path d="M42 56 H86 L79 100 H49 Z" fill="#FFFFFF" stroke="#42526B" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M48 72 H80 L78 88 H50 Z" fill="#BFE9E5"/>
+  <path d="M54 80 H74" stroke="#42526B" stroke-width="2" stroke-linecap="round"/>
+  <!-- 勺子 -->
+  <line x1="88" y1="58" x2="106" y2="38" stroke="#A0AAB8" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="108" cy="36" r="5" fill="#E7EDF3" stroke="#42526B" stroke-width="2.5"/>
+</svg>
